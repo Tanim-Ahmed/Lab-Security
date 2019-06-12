@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1560373740 source:c:\users\netlab\desktop\el gamal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<gmp.h>
+	<set>
+	<sstream>
+	<string>
+	<cmath>
+	<unistd.h>
+	<fcntl.h>
+
+1035178803 c:\users\netlab\desktop\gmp\gmplib\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
